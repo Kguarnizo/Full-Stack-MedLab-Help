@@ -1,4 +1,4 @@
-<h1>Full-Stack-MedLab-Help</h1>
+<h1>Full-Stack MedLab Help</h1>
 As every patient knows, medical jargon can be confusing for even the most routine of tests. That's why we created MedLab Help. We wanted a user-friendly guide to help you understand lab tests and give you the knowledge to allow you to be proactive in your healthcare by explaining why a test may be ordered by your doctor and what the normal range of reference for your results should be.
 
 <h2>Introduction</h2>
@@ -30,7 +30,8 @@ The front-end repistory can be found [here](https://github.com/Kguarnizo/medlabh
 You can locate installations and configurations inside both the back-end and front-end repositories.
 
 <h2>Demo</h2>
-<!-- The demo for MedLab-Help can be found [here]() -->
+The demo for MedLab Help can be found [here](https://www.youtube.com/watch?v=87Zy7ZMlre4)
+
 
 ![MedLab Help Home Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/MedLab-Help-home.png)
 _Fig. This example displays the MedLab-Help Home Page._
