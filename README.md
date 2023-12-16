@@ -32,14 +32,21 @@ You can locate installations and configurations inside both the back-end and fro
 ## Demo
 The demo for MedLab Help can be found [here](https://www.youtube.com/watch?v=87Zy7ZMlre4)
 
-<br>
-<br>
+## Navigating MedLab Help
 
-![MedLab Help Home Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/MedLab-Help-home.png)
-_Fig. This example displays the MedLab-Help Home Page._
+**- Home Page**
+![MedLab Help Home Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-home.png)
 
-
-![MedLab Help About Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/MedLab-Help-about.png)
+**- About Page**
+![MedLab Help About Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-about.png)
 _Fig. This example displays the MedLab-Help About Page where you can learn more about the team._
 
+**- Tests Page**
+![MedLab Help Tests Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-tests.png)
+_Fig. This example displays the MedLab-Help Tests Page where you can search for a specific test._
 
+![MedLab Help Search Feature](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-tests-search.png)
+_Fig. This example displays a search fetaure, filtering the list of lab tests to the specific user input._
+
+![MedLab Help Modal for Specific Test Search](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-tests-modal.png)
+_Fig. This example displays a popover modal, showcasing tests details such as a test's description, normal reference, unit of measure, alternames, and additional link to learn more.
