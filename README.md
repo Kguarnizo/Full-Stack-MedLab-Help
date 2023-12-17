@@ -35,18 +35,18 @@ The demo for MedLab Help can be found [here](https://www.youtube.com/watch?v=87Z
 ## Navigating MedLab Help
 
 **- Home Page**
-![MedLab Help Home Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-home.png)
+![MedLab Help Home Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/images/medlab-help-home.png)
 
 **- About Page**
-![MedLab Help About Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-about.png)
+![MedLab Help About Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/images/medlab-help-about.png)
 _Fig. This example displays the MedLab-Help About Page where you can learn more about the team._
 
 **- Tests Page**
-![MedLab Help Tests Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-tests.png)
+![MedLab Help Tests Page](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/images/medlab-help-tests.png)
 _Fig. This example displays the MedLab-Help Tests Page where you can search for a specific test._
 
-![MedLab Help Search Feature](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-tests-search.png)
+![MedLab Help Search Feature](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/images/medlab-help-tests-search.png)
 _Fig. This example displays a search fetaure, filtering the list of lab tests to the specific user input._
 
-![MedLab Help Modal for Specific Test Search](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/medlab-help-tests-modal.png)
+![MedLab Help Modal for Specific Test Search](https://github.com/Kguarnizo/Full-Stack-MedLab-Help/blob/main/images/medlab-help-tests-modal.png)
 _Fig. This example displays a popover modal, showcasing tests details such as a test's description, normal reference, unit of measure, alternames, and additional link to learn more.
