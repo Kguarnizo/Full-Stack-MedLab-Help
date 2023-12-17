@@ -1,4 +1,4 @@
-<h1>Full-Stack MedLab Help</h1>
+<h1>MedLab Help</h1>
 As every patient knows, medical jargon can be confusing for even the most routine of tests. That's why we created MedLab Help. We wanted a user-friendly guide to help you understand lab tests and give you the knowledge to allow you to be proactive in your healthcare by explaining why a test may be ordered by your doctor and what the normal range of reference for your results should be.
 
 ## Back-end Repository
